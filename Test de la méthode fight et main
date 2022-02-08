@@ -4,5 +4,5 @@
     <bytecodeTargetLevel>
       <module name="Combat" target="8" />
     </bytecodeTargetLevel>
-  </component>
+  
 </project>
